@@ -59,7 +59,7 @@ Building: AI agents · Brain dev games · AR/XR · Community platforms · mobile
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="100%"/>
+<!-- <img src="https://streak-stats.demolab.com?user=RashSVR&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=94d4e7&dates=555555" width="100%"/> -->
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashSVR&theme=transparent" width="80%"/>
 
